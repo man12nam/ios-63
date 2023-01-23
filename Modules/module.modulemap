@@ -1,0 +1,4 @@
+framework module game {
+  header "game-Swift.h"
+  requires objc
+}
